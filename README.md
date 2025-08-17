@@ -3,7 +3,7 @@
 ![AgriRakshak Demo](docs/demo.gif)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
-![Alt text](Screenshot 2025-08-17 at 7.27.49 PM.png)
+![Alt text](Demo.png)
 
 ## 📖 Description  
 **AgriRakshak** is an AI-powered mobile + web solution designed to help farmers detect **crop pests and diseases in real-time** using machine learning.  
