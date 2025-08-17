@@ -17,13 +17,13 @@ By simply capturing an image of a crop, farmers receive instant diagnosis.
 - 📷 **Image-based Detection**: Upload crop images to identify pests/diseases.  
 - 🔍 **Accurate ML Models**: Trained on agricultural datasets.  
 - 📊 **Data Insights**: Store and visualize disease trends.  
-- 🌐 **Farmer-Friendly Interface**: Simple UI with multilingual support.  
+- 🌐 **Farmer-Friendly Interface**: Simple UI.  
 - ⚡ **Lightweight & Fast**: Runs on low-end devices and web browsers.  
 
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend**: React / React Native  
+- **Frontend**: Streamlit
 - **Backend**: Flask (Python)  
 - **Database**: MySQL  
 - **ML Framework**: PyTorch  
