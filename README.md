@@ -7,7 +7,7 @@
 
 ## 📖 Description  
 **AgriRakshak** is an AI-powered mobile + web solution designed to help farmers detect **crop pests and diseases in real-time** using machine learning.  
-By simply capturing an image of a crop, farmers receive instant diagnosis along with recommended remedies.  
+By simply capturing an image of a crop, farmers receive instant diagnosis.  
 
 🚜 Our mission: *Empower farmers with affordable, accessible technology to improve yield and reduce losses.*  
 
