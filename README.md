@@ -3,7 +3,6 @@
 ![AgriRakshak Demo](docs/demo.gif)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Alt text](Demo.png)
 
 ## 📖 Description  
