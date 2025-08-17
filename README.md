@@ -39,14 +39,14 @@ By simply capturing an image of a crop, farmers receive instant diagnosis.
    pip install -r requirements.txt
    python src/app.py
 
-2. **Open Browser at `http://127.0.0.1:5000/`
+2. **Open Browser at** `http://127.0.0.1:5000/`
 
 ---
 
 ## 🚀 Usage 
--📱 Upload an image of a crop leaf.
--🧠 The ML model analyzes and predicts possible diseases/pests.
--🧾 Get instant diagnosis.
+- 📱 Upload an image of a crop leaf.
+- 🧠 The ML model analyzes and predicts possible diseases/pests.
+- 🧾 Get instant diagnosis.
 
 ---
 ## Contact
