@@ -3,7 +3,6 @@
 ![AgriRakshak Demo](docs/demo.gif)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 
 ## 📖 Description  
 **AgriRakshak** is an AI-powered mobile + web solution designed to help farmers detect **crop pests and diseases in real-time** using machine learning.  
@@ -37,3 +36,18 @@ By simply capturing an image of a crop, farmers receive instant diagnosis.
    ```bash
    git clone https://github.com/<your-username>/AgriRakshak.git
    cd AgriRakshak
+   pip install -r requirements.txt
+   python src/app.py
+
+2. **Open Browser at `http://127.0.0.1:5000/`
+
+---
+
+## 🚀 Usage 
+-📱 Upload an image of a crop leaf.
+-🧠 The ML model analyzes and predicts possible diseases/pests.
+-🧾 Get instant diagnosis.
+
+---
+## Contact
+- If you have any suggestions drop me a mail at `kavinmoudgil.work@gmail.com`
