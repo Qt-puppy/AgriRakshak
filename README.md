@@ -3,6 +3,7 @@
 ![AgriRakshak Demo](docs/demo.gif)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Alt text](Demo.png)
 
 ## 📖 Description  
@@ -23,7 +24,7 @@ By simply capturing an image of a crop, farmers receive instant diagnosis.
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend**: Streamlit
+- **Frontend**: Next.js
 - **Backend**: Flask (Python)  
 - **Database**: MySQL  
 - **ML Framework**: PyTorch  
